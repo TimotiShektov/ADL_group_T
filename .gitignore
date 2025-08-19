@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+main.py
+
+#PAT for this specific repo
+repos_PAT.txt
+# my project token for git:
