@@ -16,3 +16,8 @@ main.py
 repos_PAT.txt
 ADV*
 .ipynb_checkpoints/
+
+#irrelevant csv files
+ph*.csv
+t*.csv
+e*.csv
