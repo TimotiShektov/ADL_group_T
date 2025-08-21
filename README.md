@@ -22,3 +22,6 @@ This is our project structurs:
 └── uv.lock
 </pre>
 
+My chatgpt conversation :
+
+https://chatgpt.com/share/68a758d1-9b0c-8013-a704-37f5ebaa0cbc
