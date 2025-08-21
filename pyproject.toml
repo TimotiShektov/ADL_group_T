@@ -5,6 +5,9 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "accelerate>=1.10.0",
+    "bitsandbytes==0.42.0",
+    "datasets>=4.0.0",
     "emoji>=2.14.1",
     "emot>=3.1",
     "ftfy>=6.3.1",
@@ -17,6 +20,7 @@ dependencies = [
     "notebook>=7.4.5",
     "optuna>=4.5.0",
     "pandas>=2.3.1",
+    "peft>=0.17.1",
     "python-decouple>=3.8",
     "requests>=2.32.5",
     "scikit-learn>=1.7.1",
