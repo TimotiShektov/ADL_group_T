@@ -1,5 +1,8 @@
+Group T, IDs: 316398387 ,318481447
+
+
 <pre>
-This is our project structure: 
+This is our Sentiment Analysis classification project structure: 
 
 .
 ├── Corona_NLP_test.csv
