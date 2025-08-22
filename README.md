@@ -29,4 +29,4 @@ In order to reproduce our results, please follow these steps:
 
 3. Run jupyter notebook first Part_A_groupT.ipynb and then Part_B_groupT.ipynb to see the code and results with explanations. We used uv as package manager and as environment manager, but you can also use pip and virtualenv or conda.
 
-* note: we might push some cleanup commits and add-on results after submition, also apply some CI-CD(github action or gitlab.ci what the reader familiar with better) pipeline here to clean the code and output cells and un-necessary files. 
+* note: we might push some cleanup commits and add-on results after submition, also apply some CI-CD(gh actions or gitlab-ci.yaml, what the reader familiar with better) pipeline here to clean the code and output cells and un-necessary files. 
