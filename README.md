@@ -18,6 +18,8 @@ This is our Sentiment Analysis classification project structure:
 
 </pre>
 
+**We pinned it to 3.12 py version but it is possible in further work to create .sh script relevant for every cloning based on user os. **
+
 In order to reproduce our results, please follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies using pip:
