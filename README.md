@@ -1,27 +1,25 @@
 <pre>
-This is our project structurs: 
+This is our project structure: 
+
 .
-├── ADV_DL_Ex1-code.ipynb
-├── ADV_DL_Ex4-FT_Roberta.ipynb
-├── ADV_DL_Ex5-training_HF_API.ipynb
-├── ADV_DL_Ex6-compression.ipynb
 ├── Corona_NLP_test.csv
 ├── Corona_NLP_train.csv
+├── Final_Paper_Group_10.pdf
 ├── Part_A_groupT.ipynb
 ├── Part_B_groupT.ipynb
 ├── README.md
-├── eval_data.csv
-├── main.py
-├── phishing_email.csv
 ├── preprocessed_tweets.csv
 ├── pyproject.toml
-├── repos_PAT.txt
 ├── requirements.txt
-├── test_data.csv
-├── train_data.csv
 └── uv.lock
+
 </pre>
 
-My chatgpt conversation :
+In order to reproduce our results, please follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies using pip:
+   ```
+   pip install -r requirements.txt
+   ```
 
-https://chatgpt.com/share/68a758d1-9b0c-8013-a704-37f5ebaa0cbc
+3. Run jupyter notebook first Part_A_groupT.ipynb and then Part_B_groupT.ipynb to see the code and results with explanations. We used uv as package manager and as environment manager, but you can also use pip and virtualenv or conda.

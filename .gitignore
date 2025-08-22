@@ -21,3 +21,7 @@ ADV*
 ph*.csv
 t*.csv
 e*.csv
+
+#irrelvant PDF files
+*.pdf
+*.tex
